@@ -1,0 +1,3 @@
+
+para la realizacion de este programa se ocupo la lib pandas...
+*pip install pandas*
